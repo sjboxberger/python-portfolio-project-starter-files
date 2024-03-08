@@ -33,3 +33,5 @@ print("The average age of the stored users is: {}".format(round(avg_age)))
 #1c: Determining average costs for smoker/non-smoker
 
 #Exploration 2: Using NumPy to calculate averages, medians and other percentage statistics of other columns
+
+#This is a new comment. Commit!
